@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">-Tech Skills</h4>
+<h3 align="left">-Tech Skills</h3>
 
 ###
 
