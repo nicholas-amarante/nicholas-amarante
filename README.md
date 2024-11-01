@@ -17,19 +17,17 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="25" alt="postgresql logo"  />
   <img width="30" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="25" alt="postgresql logo"  />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="25" alt="linux logo"  />
   <img width="30" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="25" alt="linux logo"  />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="25" alt="vscode logo"  />
   <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"  />
   <img width="30" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="25" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="25" alt="css3 logo"  />
   <img width="30" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="25" alt="css3 logo"  />
-  <img width="30" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="25" alt="git logo"  />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" alt="git logo"  />
 </div>
 
 ###
